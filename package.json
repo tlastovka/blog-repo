@@ -1,0 +1,22 @@
+{
+  "name": "blog-repo",
+  "version": "1.0.0",
+  "description": "My Blog Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlastovka/blog-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlastovka/blog-repo/issues"
+  },
+  "homepage": "https://github.com/tlastovka/blog-repo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
